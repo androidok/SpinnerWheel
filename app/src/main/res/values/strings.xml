@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerWheel</string>
+    <string name="text_wheel">Text Wheel</string>
+    <string name="num_wheel">Number Wheel</string>
+</resources>
